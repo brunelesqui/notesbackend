@@ -1,0 +1,7 @@
+node_modules
+
+*.bat
+*.txt
+header
+note.json
+
